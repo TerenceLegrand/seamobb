@@ -1,0 +1,17 @@
+Package: seamobb
+Type: Package
+Title: Oceanographic distance
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Terence",
+           family  = "Legrand",
+           role    = c("aut", "cre", "cph"),
+           email   = "legrandterence@gmail.com",
+           comment = c(ORCID = "0000-0002-9120-5153")))
+Description: A project to estimate oceanogrpahic distance between SEAMoBB sampling sites
+URL: https://github.com/TerenceLegrand/seamobb
+BugReports: https://github.com/TerenceLegrand/seamobb/issues
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
